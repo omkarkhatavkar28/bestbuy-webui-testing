@@ -1,0 +1,9 @@
+.settings/
+
+# Intellij
+.idea/
+*.iml
+
+# Maven
+logs/
+target/
